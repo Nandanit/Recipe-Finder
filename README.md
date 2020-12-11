@@ -93,8 +93,8 @@ Notes:
 4. Program should be all-inclusive and a run script included
 5. Please return either a link to an online Git repository, or the full repository. We want to see your commits.
 7. Using the sample input above, the program should return "Salad Sandwich".
-8. Include unit tests 
-9. All code to be completed using php. 
+
+
 
 
 
