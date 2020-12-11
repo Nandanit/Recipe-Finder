@@ -25,6 +25,7 @@ class FridgeIngredient{
 	/**
 	 * class constructor  
 	 */
+	
 	public function __construct($ingredient, $useByDate) {
 		$this->ingredient = $ingredient;
 		$this->useByDate = DateTime::createFromFormat(EXPIRY_DATE_FORMAT, $useByDate);
