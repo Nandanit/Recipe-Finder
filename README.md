@@ -75,9 +75,9 @@ Sample recipes json provided:
 
 Unit Test:
 -----------------------------
-PHPUnit is being used for unit tests. Unit test file are located in Recipe-Finder-main\Recipe-Finder-main\phpUnitTest
+PHPUnit is being used for unit tests. Unit test file are located in Recipe-Finder-main\Recipe-Finder-main\tests
 
-1. Navigate to Recipe-Finder-main\Recipe-Finder-main\phpUnitTest
+1. Navigate to Recipe-Finder-main\Recipe-Finder-main\tests
 
 2. Run command: phpunit UnitTest fileTest.php
 
