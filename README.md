@@ -87,7 +87,7 @@ PHPUnit is being used for unit tests. Unit test file are located in Recipe-Finde
 
 	e.g phpunit UnitTest RecipeFinderTest.php
 
-Note: installtion of PHPUnit and PHP is needed
+Note: installation of PHPUnit and PHP is needed
 	
 Notes:
 ----------------------------
