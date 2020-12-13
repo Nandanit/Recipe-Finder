@@ -12,7 +12,7 @@ class FridgeIngredientTest extends PHPUnit_Framework_TestCase{
     }
 	
 	protected function tearDown() {
-        unset($this->fridgeIngredient);
+         unset($this->fridgeIngredient);
     }
 	
 	public function testIsExpired() {
