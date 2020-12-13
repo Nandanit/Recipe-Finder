@@ -5,7 +5,7 @@
 Recipe Finder Application Usage
 -------------------------------
 
-1. Git Clone from https://github.com/Nandanit/Recipe-Finder.git repository in GitHib
+1. Git Clone https://github.com/Nandanit/Recipe-Finder.git repository in GitHib
 
 2. Extract content to Recipe-Finder-main
 
