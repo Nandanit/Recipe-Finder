@@ -11,6 +11,10 @@ Recipe Finder Application Usage
 
 3. Navigate to Recipe-Finder-main\Recipe-Finder-main
 
+4. Run command: php startRecipeFinderApp.php fridge.csv recipe.json.txt 
+			or
+	Double click: runRecipeFinder.bat
+
 Requirements
 --------------------------------
 PHP 5.6+
@@ -83,7 +87,7 @@ PHPUnit is being used for unit tests. Unit test file are located in Recipe-Finde
 
 	e.g phpunit UnitTest RecipeFinderTest.php
 
-
+Note: installtion of PHPUnit and PHP is needed
 	
 Notes:
 ----------------------------
